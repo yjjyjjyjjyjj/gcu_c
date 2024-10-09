@@ -11,7 +11,7 @@ int main(void){
         fact = fact*i;
     }
 
-    printf("%d!은 %ld이다.\n",n,fact);
+    printf("%d!은 %ld이다. \n",n,fact);
     
     return 0;
 }
